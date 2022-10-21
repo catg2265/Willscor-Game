@@ -1,0 +1,12 @@
+
+### Stuff to remember when creating the Willscor game
+
+
+Remember to use the new input system (package installed)
+
+Timeline package installed nice for creating cutscenes and cinematics
+
+Cinemachine camera package installed remember to utilize it.
+
+Post-processing package has been installed used to add effects to the camera
+
